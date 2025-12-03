@@ -2,6 +2,7 @@ We are building solid foundations over which we will add latest llm tech.
 
 This phase includes:
 - Andrej Karpathy's series
+
 - Reading Foundational LLM papers
     - Transformers - https://arxiv.org/abs/1706.03762
     - NN based Language model - https://jmlr.org/papers/volume3/bengio03a/bengio03a.pdf
