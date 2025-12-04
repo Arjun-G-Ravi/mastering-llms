@@ -1,5 +1,9 @@
 We are building solid foundations over which we will add latest llm tech.
 
+```
+Consume the following resources before proceeding to further modules. If found difficult, revisit them as needed while going through the rest of the material.
+```
+
 This phase includes:
 - Andrej Karpathy's series
 
